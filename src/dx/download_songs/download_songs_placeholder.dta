@@ -2,6 +2,6 @@
    dx_download_songs_placeholder_screen
    (panels meta background_confirmation_panel dialog_panel)
    (focus dialog_panel)
-   (enter {dialog_panel set_ok "Downloading songs from Dance Central Definitive is not yet available." FALSE})
+   (enter {dialog_panel set_ok get_songs_placeholder FALSE})
    (NAV_SELECT_MSG {ui goto_screen main_screen})
 }

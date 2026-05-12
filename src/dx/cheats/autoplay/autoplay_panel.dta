@@ -19,8 +19,8 @@
       }
       {dx_autoplay_panel_provider.hnp append_nav_item}
       {dx_autoplay_panel_provider.hnp append_nav_item}
-      {dx_autoplay_panel_provider.hnp set_label 0 "Player 1 (Right)"}
-      {dx_autoplay_panel_provider.hnp set_label 1 "Player 2 (Left)"}
+      {dx_autoplay_panel_provider.hnp set_label 0 df_p1_auto}
+      {dx_autoplay_panel_provider.hnp set_label 1 df_p2_auto}
       {right_hand.hnl set_provider dx_autoplay_panel_provider.hnp}
       {right_hand.hnl scroll_to_index [focus_index] [top_index]}
    )
@@ -32,11 +32,11 @@
    (poll SLIDE_RIGHT_LIST_ITEM)
    (NAV_SELECT_MSG
       {switch $name
-         ("Player 1 (Right)"
+         (df_p1_auto
             {set $dx_options_target_player 1}
             {ui goto_screen dx_autoplay_diff_screen}
          )
-         ("Player 2 (Left)"
+         (df_p2_auto
             {set $dx_options_target_player 2}
             {ui goto_screen dx_autoplay_diff_screen}
          )
