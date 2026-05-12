@@ -13,7 +13,8 @@
 ;Definitive Settings locale
 (get_songs_placeholder "Downloading songs from Dance Central Definitive is not yet available.")
 (definitive_autoplay "Autoplay")
-(definitive_info "Definitive Credits")
+(definitive_info "Info / About")
+(definitive_bufferdisplaytoggle "Buffer Display / Preview")
 (definitive_credits "Dance Central 3 Definitive - Main Repository: https://github.com/DanceCentralDefinitive/dance-central-definitive - Docs: https://dancecentraldefinitive.github.io/dance-central-definitive/ - Authors: noqenji, liningdesert753, NORXND, Special Thanks to MiloHax & the DCD Discord Server")
 
 	;Autoplay Settings (Xenia/Non-Debug)
