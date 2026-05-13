@@ -385,13 +385,6 @@
          "char/main/dancer/emilia01/viseme.milo")
       (gender kGenderFemale)
       (outfits
-         (emilia04
-            (model
-               "char/main/dancer/emilia04.milo")
-            (rival_outfit aubrey04)
-            (backup_rival_outfit aubrey04)
-            (backup_dancers riptide02)
-            (screen_name retro_fitted))
          (emilia01
             (model
                "char/main/dancer/emilia01.milo")
@@ -406,6 +399,13 @@
             (backup_rival_outfit aubrey02)
             (backup_dancers riptide01)
             (screen_name street_style))
+		 (emilia04
+            (model
+               "char/main/dancer/emilia04.milo")
+            (rival_outfit aubrey04)
+            (backup_rival_outfit aubrey04)
+            (backup_dancers riptide02)
+            (screen_name retro_fitted))
          (emilia05
             (model
                "char/main/dancer/emilia05.milo")
@@ -425,13 +425,6 @@
          "char/main/dancer/bodie01/viseme.milo")
       (gender kGenderMale)
       (outfits
-         (bodie04
-            (model
-               "char/main/dancer/bodie04.milo")
-            (rival_outfit glitch04)
-            (backup_rival_outfit glitch04)
-            (backup_dancers riptide02)
-            (screen_name retro_fitted))
          (bodie01
             (model
                "char/main/dancer/bodie01.milo")
@@ -446,6 +439,13 @@
             (backup_rival_outfit mo02)
             (backup_dancers riptide01)
             (screen_name street_style))
+		 (bodie04
+            (model
+               "char/main/dancer/bodie04.milo")
+            (rival_outfit glitch04)
+            (backup_rival_outfit glitch04)
+            (backup_dancers riptide02)
+            (screen_name retro_fitted))
          (bodie05
             (model
                "char/main/dancer/bodie05.milo")
@@ -458,13 +458,6 @@
          "char/main/dancer/taye01/viseme.milo")
       (gender kGenderFemale)
       (outfits
-         (taye04
-            (model
-               "char/main/dancer/taye04.milo")
-            (rival_outfit glitch04)
-            (backup_rival_outfit glitch04)
-            (backup_dancers flashfwd02)
-            (screen_name retro_fitted))
          (taye01
             (model
                "char/main/dancer/taye01.milo")
@@ -479,6 +472,13 @@
             (backup_rival_outfit glitch02)
             (backup_dancers flashfwd01)
             (screen_name street_style))
+		 (taye04
+            (model
+               "char/main/dancer/taye04.milo")
+            (rival_outfit glitch04)
+            (backup_rival_outfit glitch04)
+            (backup_dancers flashfwd02)
+            (screen_name retro_fitted))
          (taye05
             (model
                "char/main/dancer/taye05.milo")
@@ -498,13 +498,6 @@
          "char/main/dancer/lilt01/viseme.milo")
       (gender kGenderFemale)
       (outfits
-         (lilt04
-            (model
-               "char/main/dancer/lilt04.milo")
-            (rival_outfit maccoy04)
-            (backup_rival_outfit glitch04)
-            (backup_dancers flashfwd02)
-            (screen_name retro_fitted))
          (lilt01
             (model
                "char/main/dancer/lilt01.milo")
@@ -519,6 +512,13 @@
             (backup_rival_outfit glitch02)
             (backup_dancers flashfwd01)
             (screen_name street_style))
+		 (lilt04
+            (model
+               "char/main/dancer/lilt04.milo")
+            (rival_outfit maccoy04)
+            (backup_rival_outfit glitch04)
+            (backup_dancers flashfwd02)
+            (screen_name retro_fitted))
          (lilt05
             (model
                "char/main/dancer/lilt05.milo")
@@ -531,13 +531,6 @@
          "char/main/dancer/angel01/viseme.milo")
       (gender kGenderMale)
       (outfits
-         (angel04
-            (model
-               "char/main/dancer/angel04.milo")
-            (rival_outfit oblio04)
-            (backup_rival_outfit lima05)
-            (backup_dancers lush02)
-            (screen_name retro_fitted))
          (angel01
             (model
                "char/main/dancer/angel01.milo")
@@ -552,6 +545,13 @@
             (backup_rival_outfit lima05)
             (backup_dancers lush01)
             (screen_name street_style))
+		 (angel04
+            (model
+               "char/main/dancer/angel04.milo")
+            (rival_outfit oblio04)
+            (backup_rival_outfit lima05)
+            (backup_dancers lush02)
+            (screen_name retro_fitted))
          (angel05
             (model
                "char/main/dancer/angel05.milo")
@@ -571,13 +571,6 @@
          "char/main/dancer/aubrey01/viseme.milo")
       (gender kGenderFemale)
       (outfits
-         (aubrey04
-            (model
-               "char/main/dancer/aubrey04.milo")
-            (rival_outfit emilia04)
-            (backup_rival_outfit emilia04)
-            (backup_dancers lush02)
-            (screen_name retro_fitted))
          (aubrey01
             (model
                "char/main/dancer/aubrey01.milo")
@@ -592,6 +585,13 @@
             (backup_rival_outfit emilia02)
             (backup_dancers lush01)
             (screen_name street_style))
+		 (aubrey04
+            (model
+               "char/main/dancer/aubrey04.milo")
+            (rival_outfit emilia04)
+            (backup_rival_outfit emilia04)
+            (backup_dancers lush02)
+            (screen_name retro_fitted))
          (aubrey05
             (model
                "char/main/dancer/aubrey05.milo")
@@ -611,13 +611,6 @@
          "char/main/dancer/mo01/viseme.milo")
       (gender kGenderMale)
       (outfits
-         (mo04
-            (model
-               "char/main/dancer/mo04.milo")
-            (rival_outfit rasa05)
-            (backup_rival_outfit rasa05)
-            (backup_dancers hidef02)
-            (screen_name retro_fitted))
          (mo01
             (model
                "char/main/dancer/mo01.milo")
@@ -632,6 +625,13 @@
             (backup_rival_outfit rasa05)
             (backup_dancers hidef01)
             (screen_name street_style))
+		 (mo04
+            (model
+               "char/main/dancer/mo04.milo")
+            (rival_outfit rasa05)
+            (backup_rival_outfit rasa05)
+            (backup_dancers hidef02)
+            (screen_name retro_fitted))
          (mo05
             (model
                "char/main/dancer/mo05.milo")
@@ -651,13 +651,6 @@
          "char/main/dancer/glitch01/viseme.milo")
       (gender kGenderMale)
       (outfits
-         (glitch04
-            (model
-               "char/main/dancer/glitch04.milo")
-            (rival_outfit bodie04)
-            (backup_rival_outfit bodie04)
-            (backup_dancers hidef02)
-            (screen_name retro_fitted))
          (glitch01
             (model
                "char/main/dancer/glitch01.milo")
@@ -672,6 +665,13 @@
             (backup_rival_outfit bodie02)
             (backup_dancers hidef01)
             (screen_name street_style))
+		 (glitch04
+            (model
+               "char/main/dancer/glitch04.milo")
+            (rival_outfit bodie04)
+            (backup_rival_outfit bodie04)
+            (backup_dancers hidef02)
+            (screen_name retro_fitted))
          (glitch05
             (model
                "char/main/dancer/glitch05.milo")
@@ -744,13 +744,6 @@
       (gender kGenderFemale)
       (hidden FALSE)
       (outfits
-         (jaryn04
-            (model
-               "char/main/dancer/jaryn04.milo")
-            (rival_outfit oblio04)
-            (backup_rival_outfit lima05)
-            (backup_dancers glitterati02)
-            (screen_name haute_blooded))
          (jaryn01
             (model
                "char/main/dancer/jaryn01.milo")
@@ -764,20 +757,21 @@
             (rival_outfit oblio04)
             (backup_rival_outfit lima05)
             (backup_dancers glitterati01)
-            (screen_name street_style))))
+            (screen_name street_style))
+		 (jaryn04
+            (model
+               "char/main/dancer/jaryn04.milo")
+            (rival_outfit oblio04)
+            (backup_rival_outfit lima05)
+            (backup_dancers glitterati02)
+            (screen_name haute_blooded))
+         ))
    (kerith
       (viseme
          "char/main/dancer/kerith01/viseme.milo")
       (gender kGenderMale)
       (hidden FALSE)
       (outfits
-         (kerith04
-            (model
-               "char/main/dancer/kerith04.milo")
-            (rival_outfit tan04)
-            (backup_rival_outfit rasa05)
-            (backup_dancers glitterati02)
-            (screen_name haute_blooded))
          (kerith01
             (model
                "char/main/dancer/kerith01.milo")
@@ -791,7 +785,15 @@
             (rival_outfit oblio04)
             (backup_rival_outfit rasa05)
             (backup_dancers glitterati01)
-            (screen_name street_style))))
+            (screen_name street_style))
+		 (kerith04
+            (model
+               "char/main/dancer/kerith04.milo")
+            (rival_outfit tan04)
+            (backup_rival_outfit rasa05)
+            (backup_dancers glitterati02)
+            (screen_name haute_blooded))
+         ))
    (rasa
       (viseme
          "char/main/dancer/rasa05/viseme.milo")
@@ -2312,14 +2314,14 @@
       (gender kGenderFemale)
       (playable FALSE)
       (outfits
-         (doll01
+         (cyn01
             (model
                "char/main/dancer/cyn01.milo")
             (rival_outfit angel01)
             (backup_rival_outfit angel02)
             (backup_dancers skeleton01)
             (screen_name crew_look))
-         (doll02
+         (cyn02
             (model
                "char/main/dancer/cyn03.milo")
             (rival_outfit angel01)
@@ -2341,30 +2343,224 @@
 #define MILO_VENUES
 (beachfront beachfront_takehome yacht yacht_takehome minigolf minigolf_takehome subway subwaytakehome skyscraper skyscrapertakehome mountainbasesun mountainbasesuntakehome mountainbase mountainbase_takehome dci rollerrink streetside houseparty dclive throneroom bid glitterati arttest default powerstation highschool boardwalk boardwalktakehome bridge rooftop mansion forest)
 #define MILO_CHARACTERS
-(doll01 doll02 cyn01 cyn03 ddronen01 ddronen02 ddronev01 ddronev02 ddronev03 femsinger01 freddy01 george01 george02 grim01 heavy01 heavy02 john01 john02 miku01 paul01 paul02 ringo01 ringo02 teto01 walter01 dc1_angel01 dc1_angel02 dc1_aubrey01 dc1_aubrey02 dc1_kyoko01 dc1_kyoko02 dc1_maccoy01 dc1_maccoy02 dc1_emilia01 dc1_emilia02 dc1_oblio01 dc1_oblio02 dc1_oblio03 dc1_mo01 dc1_mo02 dc1_mo03 dc1_sade01 dc1_sade02 dc1_ninja01 dc1_robot01 dc1_robot02 dcypher_bd01 dcypher_bd02 flashfwd_bd01 flashfwd_bd02 flashfwd_bd03 flashfwd_bd04 glitterati_bd01 glitterati_bd02 glitterati_bd03 glitterati_bd04 hidef_bd01 hidef_bd02 hidef_bd03 hidef_bd04 iconman iconman_bd01 iconman_bd02 lush_bd01 lush_bd02 lush_bd03 lush_bd04 ninja_bd01 ninja_bd02 riptide_bd01 riptide_bd01 riptide_bd02 riptide_bd03 riptide_bd04 tanarmy_bd03 tanarmy_bd04 dci_bd03 dci_bd04 skeleton_bd01 skeleton_bd02 dc1_robot01_bd01 dc1_robot01_bd02 dc1_robot02_bd01 dc1_robot02_bd02 oblio02_bd01 dcoy01_bd01 dcoy02_bd01 dcoy01_bd02 dcoy02_bd02 angel01 angel02 angel03 angel04 angel05 aubrey01 aubrey02 aubrey03 aubrey04 aubrey05 bodie01 bodie02 bodie04 bodie05 dare04 dare06 emilia01 emilia02 emilia03 emilia04 emilia05 glitch01 glitch02 glitch04 glitch05 iconman01 iconmanblue01 iconmanpink01 jaryn01 jaryn02 jaryn04 kerith01 kerith02 kerith04 lilt01 lilt02 lilt04 lilt05 lima05 lima06 maccoy04 maccoy06 mo01 mo02 mo03 mo04 mo05 ninjaman01 ninjaman02 ninjawoman01 ninjawoman02 oblio04 oblio06 rasa05 rasa06 robota01 robota02 robota03 robotb01 robotb02 robotb03 tan01 tan04 tanrobot01 tanrobot02 tanrobot03 taye01 taye02 taye03 taye04 taye05)
+	(doll01
+	doll02
+ 	cyn01
+ 	cyn03
+ 	ddronen01
+ 	ddronen02
+ 	ddronev01
+ 	ddronev02
+ 	ddronev03
+ 	femsinger01
+ 	freddy01
+ 	george01
+ 	george02
+ 	grim01
+ 	heavy01
+ 	heavy02
+ 	john01
+ 	john02
+ 	miku01
+ 	paul01
+ 	paul02
+ 	ringo01
+ 	ringo02
+ 	teto01
+ 	walter01
+	bird01
+ 	dc1_angel01
+ 	dc1_angel02
+ 	dc1_aubrey01
+ 	dc1_aubrey02
+ 	dc1_kyoko01
+ 	dc1_kyoko02
+ 	dc1_maccoy01
+ 	dc1_maccoy02
+ 	dc1_emilia01
+ 	dc1_emilia02
+ 	dc1_oblio01
+ 	dc1_oblio02
+ 	dc1_oblio03
+ 	dc1_mo01
+ 	dc1_mo02
+ 	dc1_mo03
+ 	dc1_sade01
+ 	dc1_sade02
+ 	dc1_ninja01
+ 	dc1_robot01
+ 	dc1_robot02
+ 	dcypher_bd01
+ 	dcypher_bd02
+ 	flashfwd_bd01
+ 	flashfwd_bd02
+ 	flashfwd_bd03
+ 	flashfwd_bd04
+ 	glitterati_bd01
+ 	glitterati_bd02
+ 	glitterati_bd03
+ 	glitterati_bd04
+ 	hidef_bd01
+ 	hidef_bd02
+ 	hidef_bd03
+ 	hidef_bd04
+ 	iconman
+ 	iconman_bd01
+ 	iconman_bd02
+ 	lush_bd01
+ 	lush_bd02
+ 	lush_bd03
+ 	lush_bd04
+ 	ninja_bd01
+ 	ninja_bd02
+ 	riptide_bd01
+ 	riptide_bd01
+ 	riptide_bd02
+ 	riptide_bd03
+ 	riptide_bd04
+ 	tanarmy_bd03
+ 	tanarmy_bd04
+ 	dci_bd03
+ 	dci_bd04
+ 	skeleton_bd01
+ 	skeleton_bd02
+ 	dc1_robot01_bd01
+ 	dc1_robot01_bd02
+ 	dc1_robot02_bd01
+ 	dc1_robot02_bd02
+ 	oblio02_bd01
+ 	dcoy01_bd01
+ 	dcoy02_bd01
+ 	dcoy01_bd02
+ 	dcoy02_bd02
+ 	angel01
+ 	angel02
+ 	angel03
+ 	angel04
+ 	angel05
+ 	aubrey01
+ 	aubrey02
+ 	aubrey03
+ 	aubrey04
+ 	aubrey05
+ 	bodie01
+ 	bodie02
+ 	bodie04
+ 	bodie05
+ 	dare04
+ 	dare06
+ 	emilia01
+ 	emilia02
+ 	emilia03
+ 	emilia04
+ 	emilia05
+ 	glitch01
+ 	glitch02
+ 	glitch04
+ 	glitch05
+ 	iconman01
+ 	iconmanblue01
+ 	iconmanpink01
+ 	jaryn01
+ 	jaryn02
+ 	jaryn04
+ 	kerith01
+ 	kerith02
+ 	kerith04
+ 	lilt01
+ 	lilt02
+ 	lilt04
+ 	lilt05
+ 	lima05
+ 	lima06
+ 	maccoy04
+ 	maccoy06
+ 	mo01
+ 	mo02
+ 	mo03
+ 	mo04
+ 	mo05
+ 	ninjaman01
+ 	ninjaman02
+ 	ninjawoman01
+ 	ninjawoman02
+ 	oblio04
+ 	oblio06
+ 	rasa05
+ 	rasa06
+ 	robota01
+ 	robota02
+ 	robota03
+ 	robotb01
+ 	robotb02
+ 	robotb03
+ 	tan01
+ 	tan04
+ 	tanrobot01
+ 	tanrobot02
+ 	tanrobot03
+ 	taye01
+ 	taye02
+ 	taye03
+ 	taye04
+ 	taye05
+)
 #endif
 #define OUTFIT_REMAP
-((dc1_angel01 dc1_angel01)
-   (dc1_angel02 dc1_angel02)
+(
+	(dc1_angel01 dc1_angel01);crew
+   (dc1_angel02 dc1_angel02);street
+   (dc1_angel03 dc1_angel01);classic
+   (dc1_angel04 dc1_angel01);retro
+   (dc1_angel05 dc1_angel02);dci
+   
    (dc1_aubrey01 dc1_aubrey01)
    (dc1_aubrey02 dc1_aubrey02)
+   (dc1_aubrey03 dc1_aubrey01)
+   (dc1_aubrey04 dc1_aubrey02)
+   (dc1_aubrey05 dc1_aubrey02)
+   
    (dc1_kyoko01 dc1_kyoko01)
    (dc1_kyoko02 dc1_kyoko02)
+   (dc1_kyoko03 dc1_kyoko01)
+   (dc1_kyoko04 dc1_kyoko02)
+   (dc1_kyoko05 dc1_kyoko02)
+   
    (dc1_maccoy01 dc1_maccoy01)
    (dc1_maccoy02 dc1_maccoy02)
+   (dc1_maccoy03 dc1_maccoy01)
+   (dc1_maccoy04 dc1_maccoy02)
+   (dc1_maccoy05 dc1_maccoy02)
+   
    (dc1_emilia01 dc1_emilia01)
    (dc1_emilia02 dc1_emilia02)
+   (dc1_emilia03 dc1_emilia01)
+   (dc1_emilia04 dc1_emilia02)
+   (dc1_emilia05 dc1_emilia01)
+   
    (dc1_oblio01 dc1_oblio01)
    (dc1_oblio02 dc1_oblio02)
    (dc1_oblio03 dc1_oblio03)
+   (dc1_oblio04 dc1_oblio01)
+   (dc1_oblio05 dc1_oblio01)
+   (dc1_oblio06 dc1_oblio03)
+   
    (dc1_mo01 dc1_mo01)
    (dc1_mo02 dc1_mo02)
    (dc1_mo03 dc1_mo03)
+   (dc1_mo04 dc1_mo02)
+   (dc1_mo05 dc1_mo01)
+   
    (dc1_sade01 dc1_sade01)
    (dc1_sade02 dc1_sade02)
+   (dc1_sade03 dc1_sade01)
+   (dc1_sade04 dc1_sade01)
+   (dc1_sade05 dc1_sade02)
+   
    (dc1_ninja01 dc1_ninja01)
    (dc1_robot01 dc1_robot01)
    (dc1_robot02 dc1_robot02)
+   
    (angel01 angel01)
    (angel02 angel02)
    (angel03 angel03)
@@ -2775,9 +2971,15 @@
       (venue dclive)
       (colors
          (1.0 9.0e-2 0.14)
+         (0.75 0.7 0.74)))
+	(custom_chars
+      (characters miku teto john paul ringo george ddronen ddronev cyn doll heavy walter femsinger grim)
+      (venue dclive)
+      (colors
+         (1.0 9.0e-2 0.14)
          (0.75 0.7 0.74))))
 #define SELECTABLE_CREWS
-(bd_dancers crew01 crew03 crew04 crew02 crew05 crew11 crew07 crew06 crew08 crew09 crew10)
+(bd_dancers crew01 crew03 crew04 crew02 crew05 crew11 crew07 crew06 crew08 crew09 crew10 custom_chars)
 #define CHARCLIP_SKELETONS
 (male female ricardo chanel devin frenchy marcos male_turbo female_turbo spikey nick kunle torey)
 #define kAccomplishmentTypeUnique
