@@ -10166,7 +10166,7 @@
 
 ;customs (decided against making updates to incompatible songs, lol)
 (breakforme
-	(game_origin amp16) ; Also appears in Dance Central (VR)
+	(game_origin dcvr_dlc)
 	(album_name "Amplitude")
 )
 ;the following update is one of MY customs. the default venue is meant to be Lowdown.
@@ -10180,6 +10180,7 @@
 	(backup_character angel01)
 	(backup_character_alt glitch02)
 )
+;Pre-release HamBuild customs
 (anonymous
    (name "Anonymous")
    (artist "Bobby Valentino")
@@ -10224,7 +10225,7 @@
    (name "Let Me Love You (Until You Learn To Love Yourself) (Old)")
    (artist "Ne-Yo")
    (game_origin viper_dlc)
-   (album_name "Native")
+   (album_name "R.E.D.")
    (pronunciation
       ("Let Me Love You"
       )
