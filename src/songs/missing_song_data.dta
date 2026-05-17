@@ -6790,7 +6790,7 @@
 	(game_origin ham2_dev)
 )
 (harderbetter
-	(name "Harder Better Faster Stronger")
+	(name "Harder, Better, Faster, Stronger")
 	(artist "Daft Punk")
 	(game_origin ham1_lost)
 )
@@ -6847,12 +6847,12 @@
 
 ;Dance Central Spotlight Legacy Imports (No Freestyle DC1 DLC, Alternates for All DLC)
 (weaponofchoice_viper
-	(name "Weapon Of Choice")
+	(name "Weapon Of Choice (Old)")
 	(game_origin ham1_viper)
 	(rank 10)
 )
 (weaponofchoice_alt
-	(name "Weapon Of Choice (Alternate)")
+	(name "Weapon Of Choice (Alternate) (Old)")
 	(game_origin ham1_viper)
 )
 
@@ -7942,6 +7942,7 @@
    (album_name "My Everything")
    (pronunciation
       ("problem"
+	  "one less problem"
       )
    )
    (default_character aubrey02)
@@ -10164,11 +10165,8 @@
 )
 
 
-;customs (decided against making updates to incompatible songs, lol)
-(breakforme
-	(game_origin dcvr_dlc)
-	(album_name "Amplitude")
-)
+;customs
+
 ;the following update is one of MY customs. the default venue is meant to be Lowdown.
 (runaway2
 	(name "Runaway")
@@ -10179,12 +10177,15 @@
 	(default_character_alt maccoy04)
 	(backup_character angel01)
 	(backup_character_alt glitch02)
+	#ifdef CUSTOM_AUTHOR
+   (author "LiningDesert753")
+#endif
 )
 ;Pre-release HamBuild customs
 (anonymous
    (name "Anonymous")
    (artist "Bobby Valentino")
-   (game_origin ham3_cus)
+   (game_origin neon)
    (album_name "Occasions")
    (pronunciation
       ("Anonymous"
@@ -10227,7 +10228,7 @@
    (game_origin viper_dlc)
    (album_name "R.E.D.")
    (pronunciation
-      ("Let Me Love You"
+      ("Let Me Love You Old"
       )
    )   
    (default_character mo02)
@@ -10248,6 +10249,8 @@
    (pronunciation
       ("Closer Endri"
 	  "Closer Endri's Version"
+	  "closer end rese version"
+	  "closer end re"
       )
    )
    (default_character mo01)
