@@ -2,6 +2,16 @@
 
 All notable changes to this project are documented here.
 
+## [v0.0.5 (Commit 06da7a)] - 2026-05-18
+
+### Added
+
+- Spectator Settings (untested, may not work)
+
+### Changed
+
+- Gameplay Modifiers like Autoplay & Spectator are now in their own submenu within Definitive Settings
+
 ## [v0.0.5] - 2026-05-16
 
 ### Fixed
