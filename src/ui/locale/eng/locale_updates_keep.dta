@@ -10,10 +10,15 @@
 
 ;Definitive Settings locale
 (get_songs_placeholder "Downloading songs from Dance Central Definitive is not yet available.")
-(definitive_autoplay "Autoplay")
-(definitive_info "Info / About")
-(definitive_bufferdisplaytoggle "Buffer Display / Preview")
 (definitive_credits "Dance Central 3 Definitive - Main Repository: https://github.com/DanceCentralDefinitive/dance-central-definitive - Docs: https://dancecentraldefinitive.github.io/dance-central-definitive/ - Authors: noqenji, liningdesert753, NORXND, Special Thanks to MiloHax & the DCD Discord Server")
+
+(definitive_modifiers "Gameplay Modifiers")
+(definitive_pause_skele_loss "Spectator Settings")
+(definitive_autoplay "Autoplay Settings")
+(definitive_info "Info / About")
+(definitive_postprocs_toggle "Toggle Post-Processing Effects")
+(definitive_unlockall "Unlock All Content")
+(definitive_bufferdisplaytoggle "Buffer Display / Preview")
 
 	;Autoplay Settings (Xenia/Non-Debug)
 	(def_p1 "Player 1 (Right)")
@@ -24,6 +29,11 @@
 	(auto_ok "Nice")
 	(auto_flawless "Flawless (Min)")
 	(auto_perfect "Flawless (Max)")
+	
+	;Pause on Skeleton Loss settings
+	(df_nopause_noflashcards "Enable Spectator")
+	(df_nopause_yesflashcards "Enable Spectator with Flashcards")
+	(df_yespause "Disable Spectator")
 
 ;Playlist names
 (playlist_ham1_endless "Endless Playlist 1")
