@@ -8,12 +8,11 @@ The repository contains source game data (`src/`), build tooling (`tools/build.p
 
 *You can find instructions and such there!*
 
-## What this project does
+## What changed from the main repo?
 
-- Builds Xbox 360 patch arks from `src/` content.
-- Converts supported source formats (for example `.dta` to encrypted `.dtb`, `.png` to `.png_xbox`).
-- Selects and packages matching XEX binaries from `bin/`.
-- Optionally generates/updates a Xenia patch file and launches a selected build in Xenia.
+- All definitive options have locale support (currently only english is avaliable, although contributions are appreciated)
+- Custom Characters (removed from the main repo due to copyright concerns)
+- Experimental features
 
 ## Quick start
 
