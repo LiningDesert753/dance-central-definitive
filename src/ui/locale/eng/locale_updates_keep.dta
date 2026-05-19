@@ -20,9 +20,13 @@
 (definitive_unlockall "Unlock All Content")
 (definitive_bufferdisplaytoggle "Buffer Display / Preview")
 
+	;Buffer Display toggle settings
+	(def_p1 "Toggle P1 Display")
+	(def_p2 "Toggle P2 Display")
+
 	;Autoplay Settings (Xenia/Non-Debug)
-	(def_p1 "Player 1 (Right)")
-	(def_p2 "Player 2 (Left)")
+	(df_p1_auto "Player 1 (Right)")
+	(df_p2_auto "Player 2 (Left)")
 	(auto_disable "Disable")
 	(auto_bad "Bad")
 	(auto_almost "Almost")
@@ -30,7 +34,7 @@
 	(auto_flawless "Flawless (Min)")
 	(auto_perfect "Flawless (Max)")
 	
-	;Pause on Skeleton Loss settings
+	;Spectator (Pause on Skeleton Loss) settings
 	(df_nopause_noflashcards "Enable Spectator")
 	(df_nopause_yesflashcards "Enable Spectator with Flashcards")
 	(df_yespause "Disable Spectator")

@@ -10,7 +10,7 @@ The repository contains source game data (`src/`), build tooling (`tools/build.p
 
 ## What changed from the main repo?
 
-- All definitive options have locale support (currently only english is avaliable, although contributions are appreciated)
+- All definitive options have locale support (currently only english is avaliable)
 - Custom Characters (removed from the main repo due to copyright concerns)
 - Experimental features
 
