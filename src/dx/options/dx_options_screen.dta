@@ -53,12 +53,6 @@
          (definitive_modifiers
             {ui goto_screen dx_modifiers_screen}
          )
-		 ;(definitive_autoplay
-         ;   {ui goto_screen dx_autoplay_screen}
-         ;)
-         ;(definitive_bufferdisplaytoggle
-         ;   {ui goto_screen dx_buffer_display_screen}
-         ;)
 		 
          ; ("Pack Friends Token"
          ;    {do
