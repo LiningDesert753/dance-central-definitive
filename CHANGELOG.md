@@ -2,6 +2,21 @@
 
 All notable changes to this project are documented here.
 
+## [v0.0.5 (Commit 5c75e53)] - 2026-05-18
+
+### Changed
+
+- The "Toggle Post-Processing" option was moved from Gameplay Modifiers to the main Definitive Options screen
+
+### Fixed
+
+- Gameplay Modifiers no longer crash the game when trying to select the option.
+- Backing out of certain menus within Gameplay Modifiers no longer takes players to the incorrect location
+
+### Issues
+
+- All of the Spectator settings cycle in order instead of doing their intended tasks
+
 ## [v0.0.5 (Commit 06da7a)] - 2026-05-18
 
 ### Added
