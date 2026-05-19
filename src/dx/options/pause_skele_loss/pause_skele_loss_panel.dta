@@ -101,7 +101,7 @@
    dx_pause_skele_loss_screen
    (panels meta background_panel dx_pause_skele_loss_panel)
    (focus dx_pause_skele_loss_panel)
-   (back options_screen)
+   (back dx_modifiers_screen)
    (handle_global_commands TRUE)
    (enter {voice_input_panel activate_voice_context dx_options_screen})
    (on_voice_command

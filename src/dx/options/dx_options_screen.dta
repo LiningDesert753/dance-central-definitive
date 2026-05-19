@@ -27,16 +27,13 @@
       }
       {dx_options_panel_provider.hnp append_nav_item}
       {dx_options_panel_provider.hnp append_nav_item}
-      ;{dx_options_panel_provider.hnp append_nav_item}
+      {dx_options_panel_provider.hnp append_nav_item}
       ;{dx_options_panel_provider.hnp append_nav_item}
       ;{dx_options_panel_provider.hnp append_nav_item}
 	  
       {dx_options_panel_provider.hnp set_label 0 definitive_modifiers}
-	  ;{dx_options_panel_provider.hnp set_label 0 definitive_autoplay}
-      ;{dx_options_panel_provider.hnp set_label 1 definitive_bufferdisplaytoggle}
-	  ;{dx_options_panel_provider.hnp set_label 2 definitive_postprocs_toggle}
-      ;{dx_options_panel_provider.hnp set_label 3 definitive_unlockall}
-	  {dx_options_panel_provider.hnp set_label 1 definitive_info}
+	  {dx_options_panel_provider.hnp set_label 1 definitive_postprocs_toggle}
+	  {dx_options_panel_provider.hnp set_label 2 definitive_info}
 	  
       ; {dx_options_panel_provider.hnp set_label 2 "Pack Friends Token"}
       ; {dx_options_panel_provider.hnp set_label 3 "Show Friends Token"}
@@ -108,12 +105,9 @@
          ;    }
          ; )
 		 
-		 ;(definitive_postprocs_toggle
-         ;   {rnd toggle_all_postprocs}
-         ;)
-		 ;(definitive_unlockall
-         ;   {ui goto_screen unlock_all_screen}
-         ;)
+		 (definitive_postprocs_toggle
+            {rnd toggle_all_postprocs}
+         )
          (definitive_info
             {ui goto_screen dx_info_screen}
          )
