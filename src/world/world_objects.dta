@@ -4,6 +4,73 @@
 #define CAMSHOT_CATEGORIES
 ((#include camera_cats.dta))
 #include worldbase.dta
+(Tex
+   (types
+      (sticker
+         (editor
+            (sizex
+               float
+               (help
+                  "scaling in x"))
+            (sizey
+               float
+               (help
+                  "scaling in y"))
+            (display_name
+               symbol
+               (help
+                  "display name"))
+            (palette_index
+               int
+               (help
+                  "default palette index in the colors list for this sticker"))
+            (allow_color
+               bool
+               (help
+                  "can the user apply color to this image?")))
+         (sizex 1)
+         (sizey 1)
+         (display_name '')
+         (palette_index 0)
+         (allow_color TRUE))))
+(TexRenderer
+   (types
+      (snapshot
+         (editor
+            (camshot
+               symbol
+               (list
+                  {do
+                     ($array
+                        {array 0})
+                     {push_back $array none}
+                     {if
+                        [proxy]
+                        {[proxy]
+                           iterate
+                           BandCamShot
+                           $obj
+                           {push_back
+                              $array
+                              {symbol
+                                 {$obj name}}}}}
+                     {sort $array}
+                     $array})
+               (help
+                  "camshot to use for this render to texture")))
+         (camshot none)
+         (pre_render
+            {if
+               [camshot]
+               {if
+                  {!=
+                     [camshot]
+                     none}
+                  {[proxy]
+                     force_shot
+                     {[proxy]
+                        find
+                        [camshot]}}}}))))
 (CamShot
    (allowed_dirs PanelDir)
    (init

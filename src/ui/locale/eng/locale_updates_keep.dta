@@ -69,6 +69,17 @@
 (glitteratibackup "glitterati's Crew Look")
 (glitteratibackup_title "glitterati's Crew Look")
 
+(ninjawoman01 "Crew Look")
+(ninjawoman02 "TakeHome Beta")
+(ninjaman01 "Crew Look")
+(iconman01 "Mini Frenchy")
+(iconman02 "Spawns Backwards")
+(ninjawoman01_title "Crew Look")
+(ninjawoman02_title "TakeHome Beta")
+(ninjaman01_title "Crew Look")
+(iconman01_title "Mini Frenchy")
+(iconman02_title "Spawns Backwards")
+
 (flashfwd_bd01 "Flash BD R (Crew)")
 (flashfwd_bd02 "Flash BD L (Crew)")
 (flashfwd_bd03 "Flash BD R (Retro)")
@@ -325,6 +336,24 @@
 (mountainbasesun_title "The Airship")
 (mountainbase "The Airship (Dark)")
 (mountainbase_title "The Airship (Dark)")
+
+;DC2 Takehome Venue Names
+(beachfront_takehome "High Tide (TakeHome)")
+(skyscrapertakehome "Penthaüs(TakeHome)")
+(beachfront_takehome "High Tide (TakeHome)")
+(yacht_takehome "Set Adrift (TakeHome)")
+(subwaytakehomen "Lowdown (TakeHome)")
+(minigolf_takehome "Tee Off (TakeHome)")
+(mountainbasesuntakehome "The Airship (TakeHome)")
+(mountainbase_takehome "The Airship (Dark) (TakeHome)")
+(beachfront_takehome_title "High Tide (TakeHome)")
+(skyscrapertakehome_title "Penthaüs(TakeHome)")
+(beachfront_takehome_title "High Tide (TakeHome)")
+(yacht_takehome_title "Set Adrift (TakeHome)")
+(subwaytakehomen_title "Lowdown (TakeHome)")
+(minigolf_takehome_title "Tee Off (TakeHome)")
+(mountainbasesuntakehome_title "The Airship (TakeHome)")
+(mountainbase_takehome_title "The Airship (Dark) (TakeHome)")
 
 ;DC1 Venue Names
 (boardwalk "The Planks")
