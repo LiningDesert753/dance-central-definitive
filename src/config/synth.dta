@@ -63,7 +63,7 @@
 		#include metamusic_scenes.dta)
 	(start_points_ms 0 52093 74417 104185 133952 171162)
 	(song
-		(name "sfx/samples/shell/shellmusic_loop_01")
+		(name "sfx/samples/shell/shellmusic_loop_03")
 		(tracks
 			(
 				(drum(0 1))
@@ -83,7 +83,7 @@
 		#include metamusic_scenes.dta)
 	(start_points_ms 0 24774 36773 49548 61932 74322)
 	(song
-		(name "sfx/samples/shell/shellmusic_loop_01")
+		(name "sfx/samples/shell/shellmusic_loop_04")
 		(tracks
 			(
 				(drum(0 1))
