@@ -5965,6 +5965,7 @@
    (author "Harmonix")
    #endif)
 (weaponofchoice
+   (artist "Fatboy Slim ft. Bootsy Collins")
    (format 3)
    (rank 10)
    (gender kGenderMale)

@@ -2,7 +2,7 @@
    dx_info_screen
    (panels meta background_confirmation_panel dialog_panel)
    (focus dialog_panel)
-   (enter {dialog_panel set_ok "Dance Central Definitive\nhttps://github.com/DanceCentralDefinitive/dance-central-definitive\n" FALSE})
+   (enter {dialog_panel set_ok "Dance Central Definitive GitHub:\nhttps://github.com/DanceCentralDefinitive/dance-central-definitive\n" FALSE})
    (NAV_SELECT_MSG {ui goto_screen dx_options_screen})
 }
 
