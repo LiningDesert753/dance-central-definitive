@@ -10,7 +10,7 @@
 
 ;Definitive Settings locale
 (get_songs_placeholder "Downloading songs from Dance Central Definitive is not yet available.")
-(definitive_credits "Dance Central 3 Definitive - Main Repository: https://github.com/DanceCentralDefinitive/dance-central-definitive - Docs: https://dancecentraldefinitive.github.io/dance-central-definitive/ - Authors: noqenji, liningdesert753, NORXND, Special Thanks to MiloHax & the DCD Discord Server")
+(definitive_credits "Dance Central 3 Definitive - Main Repository: https://github.com/DanceCentralDefinitive/dance-central-definitive - Docs: https://dancecentraldefinitive.github.io/dance-central-definitive/ - Authors: noqenji, liningdesert753, NORXND\nTranslators: luxurioustide (Portuguese), Laura223 (Polish)\nSpecial Thanks to MiloHax & the DCD Discord Server")
 
 (definitive_modifiers "Gameplay Modifiers")
 (definitive_pause_skele_loss "Spectator Settings")
