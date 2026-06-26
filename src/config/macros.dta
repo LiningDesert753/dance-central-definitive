@@ -2072,7 +2072,151 @@
             (backup_rival_outfit rasa05)
             (backup_dancers skeleton01)
             (screen_name crew_look))))
-   
+   (grim
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (grim01
+            (model
+               "char/main/dancer/grim01.milo")
+            (rival_outfit rasa05)
+            (backup_rival_outfit rasa05)
+            (backup_dancers skeleton01)
+            (screen_name crew_look))))
+   (femsinger
+      (gender kGenderFemale)
+      (playable FALSE)
+      (outfits
+         (femsinger01
+            (model
+               "char/main/dancer/femsinger01.milo")
+            (rival_outfit rasa05)
+            (backup_rival_outfit rasa05)
+            (backup_dancers skeleton01)
+            (screen_name crew_look))))
+   (freddy
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (freddy01
+            (model
+               "char/main/dancer/freddy01.milo")
+            (rival_outfit rasa05)
+            (backup_rival_outfit rasa05)
+            (backup_dancers oblio01)
+            (screen_name crew_look))))
+   (walter
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (walter01
+            (model
+               "char/main/dancer/walter01.milo")
+            (rival_outfit rasa05)
+            (backup_rival_outfit rasa05)
+            (backup_dancers dci02)
+            (screen_name dc_classic))))
+   (heavy
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (heavy01
+            (model
+               "char/main/dancer/heavy01.milo")
+            (rival_outfit angel01)
+            (backup_rival_outfit angel02)
+            (backup_dancers dci02)
+            (screen_name crew_look))
+         (heavy02
+            (model
+               "char/main/dancer/heavy02.milo")
+            (rival_outfit angel01)
+            (backup_rival_outfit angel02)
+            (backup_dancers dci02)
+            (screen_name crew_look))))
+   (doll
+      (gender kGenderFemale)
+      (playable FALSE)
+	  (clips "char/main/dancer/doll01/clips.milo")
+      (outfits
+         (doll01
+            (model
+               "char/main/dancer/doll01.milo")
+            (rival_outfit angel01)
+            (backup_rival_outfit angel02)
+            (backup_dancers skeleton01)
+            (screen_name crew_look))
+         (doll02
+            (model
+               "char/main/dancer/doll02.milo")
+            (rival_outfit angel01)
+            (backup_rival_outfit angel02)
+            (backup_dancers skeleton01)
+            (screen_name crew_look))))
+   (cyn
+      (gender kGenderFemale)
+      (playable FALSE)
+	  (clips "char/main/dancer/cyn03/clips.milo")
+      (outfits
+         (cyn01
+            (model
+               "char/main/dancer/cyn01.milo")
+            (rival_outfit angel01)
+            (backup_rival_outfit angel02)
+            (backup_dancers skeleton01)
+            (screen_name crew_look))))
+	(miku01_bd01
+      (viseme
+         "char/main/dancer/hidef01_bd02/viseme.milo")
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (miku01_bd01
+            (model
+               "char/main/dancer/miku01.milo")
+            (rival_outfit mo03)
+            (backup_rival_outfit mo04)
+            (backup_dancers skeleton01)
+            (screen_name dci_agent))))
+	(miku01_bd02
+      (viseme
+         "char/main/dancer/hidef01_bd02/viseme.milo")
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (miku01_bd02
+            (model
+               "char/main/dancer/miku01.milo")
+            (rival_outfit mo03)
+            (backup_rival_outfit mo04)
+            (backup_dancers skeleton01)
+            (screen_name dci_agent))))
+   (teto01_bd01
+      (viseme
+         "char/main/dancer/robot01/viseme.milo")
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (teto01_bd01
+            (model
+               "char/main/dancer/teto01.milo")
+            (rival_outfit mo03)
+            (backup_rival_outfit mo04)
+            (backup_dancers skeleton01)
+            (screen_name dci_agent))))
+   (teto01_bd02
+      (viseme
+         "char/main/dancer/robot01/viseme.milo")
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (teto01_bd02
+            (model
+               "char/main/dancer/teto01.milo")
+            (rival_outfit mo03)
+            (backup_rival_outfit mo04)
+            (backup_dancers skeleton01)
+            (screen_name dci_agent))))
    (kyoko
       (viseme
          "char/main/dancer/hidef01_bd01/viseme.milo")
