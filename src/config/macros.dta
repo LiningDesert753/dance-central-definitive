@@ -2926,15 +2926,49 @@
       (colors
          (1.0 9.0e-2 0.14)
          (0.75 0.7 0.74)))
-   (crew13
-      (characters helicopter)
+   (crew12
+      (characters john paul george ringo)
       (venue rooftop)
       (colors
          (0.12 8.0e-2 0.76)
-         (1.0 0.16 0.27)))
+         (1.0 0.16 0.27)
+      )
+   )
+   (crew13
+      (characters ddronen ddronev doll cyn)
+      (venue mansion)
+      (colors
+         (0.12 8.0e-2 0.76)
+         (1.0 0.16 0.27)
+      )
+   )
+   (crew14
+      (characters miku teto)
+      (venue dclive)
+      (colors
+         (0.99 0.0 0.56)
+         (0.36 0.93 1.0)
+      )
+   )
+   (crew15
+      (characters walter heavy sniper)
+      (venue dclive)
+      (colors
+         (0.99 0.0 0.56)
+         (0.36 0.93 1.0)
+      )
+   )
+   (crew16
+      (characters grim femsinger helicopter)
+      (venue dclive)
+      (colors
+         (0.99 0.0 0.56)
+         (0.36 0.93 1.0)
+      )
+   )
    )
 #define SELECTABLE_CREWS
-(bd_dancers crew01 crew03 crew04 crew02 crew05 crew11 crew07 crew06 crew08 crew09 crew10 crew13)
+(bd_dancers crew01 crew03 crew04 crew02 crew05 crew11 crew07 crew06 crew08 crew09 crew10 crew12 crew13 crew14 crew15 crew16)
 #define CHARCLIP_SKELETONS
 (male female ricardo chanel devin frenchy marcos male_turbo female_turbo spikey nick kunle torey)
 #define kAccomplishmentTypeUnique
