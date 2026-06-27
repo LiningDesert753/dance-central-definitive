@@ -2061,6 +2061,163 @@
             (backup_dancers skeleton01)
             (screen_name battle_damage))))
    
+   (ringo
+      (viseme "char/main/dancer/ringo01/viseme.milo")
+	  (playable FALSE)
+      (gender kGenderMale)
+      (outfits
+         (ringo01
+            (model "char/main/dancer/ringo01.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name crew_look)
+         )
+         (ringo02
+            (model "char/main/dancer/ringo02.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name like_a_boss)
+         )
+      )
+   )
+   (paul
+      (viseme "char/main/dancer/paul01/viseme.milo")
+	  (playable FALSE)
+	  (gender kGenderMale)
+      (outfits
+         (paul01
+            (model "char/main/dancer/paul01.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name crew_look)
+         )
+         (paul02
+            (model "char/main/dancer/paul02.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name like_a_boss)
+         )
+      )
+   )
+   (george
+      (viseme "char/main/dancer/george01/viseme.milo")
+	  (playable FALSE)
+	  (gender kGenderMale)
+      (outfits
+         (george01
+            (model "char/main/dancer/george01.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name crew_look)
+         )
+         (george02
+            (model "char/main/dancer/george02.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name like_a_boss)
+         )
+      )
+   )
+   (john
+      (viseme "char/main/dancer/john01/viseme.milo")
+	  (playable FALSE)
+	  (gender kGenderMale)
+      (outfits
+         (john01
+            (model "char/main/dancer/john01.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name crew_look)
+         )
+         (john02
+            (model "char/main/dancer/john02.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name like_a_boss)
+         )
+      )
+   )
+   	(miku
+      (gender kGenderFemale)
+	  (playable FALSE)
+      (outfits
+         (miku01
+            (model "char/main/dancer/miku01.milo")
+            (rival_outfit aubrey01)
+            (backup_rival_outfit aubrey02)
+            (backup_dancers skeleton01)
+            (screen_name crew_look)
+         )
+      )
+   )
+   (teto
+      (gender kGenderFemale)
+	  (playable FALSE)
+      (outfits
+         (teto01
+            (model "char/main/dancer/teto01.milo")
+            (rival_outfit aubrey01)
+            (backup_rival_outfit aubrey02)
+            (backup_dancers skeleton01)
+            (screen_name crew_look)
+         )
+      )
+   )
+   (ddronen
+      (gender kGenderMale)
+	  (playable FALSE)
+      (outfits
+         (ddronen01
+            (model "char/main/dancer/ddronen01.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name crew_look)
+         )
+         (ddronen02
+            (model "char/main/dancer/ddronen02.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name dci_agent)
+         )
+      )
+   )
+   (ddronev
+      (gender kGenderFemale)
+	  (playable FALSE)
+      (outfits
+         (ddronev01
+            (model "char/main/dancer/ddronev01.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name crew_look)
+         )
+		 (ddronev02
+            (model "char/main/dancer/ddronev02.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name dci_agent)
+         )
+		 (ddronev03
+            (model "char/main/dancer/ddronev03.milo")
+            (rival_outfit ninjawoman01)
+            (backup_rival_outfit lima05)
+            (backup_dancers skeleton01)
+            (screen_name dc_classic)
+         )
+      )
+   )
    (helicopter
       (gender kGenderMale)
       (playable FALSE)
