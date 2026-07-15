@@ -39,7 +39,7 @@ Use the Python tool directly for all options:
 Common options:
 
 - `--debug`: include debug variants.
-- `--vanilla`: include vanilla variants in addition to deluxe.
+- `--vanilla`: include vanilla variants in addition to definitive.
 - `--includes <dir>`: copy extra files into the output tree.
 - `--output <dir>`: change output directory (default: `out`).
 - `--clean`: remove generated caches after a successful build.
@@ -127,7 +127,7 @@ By submitting a contribution, you affirm that you have the right to license it u
 
 ## Credits
 
-- noqenji
+- aubmilia
 - liningdesert753
 - NORXND
 - MiloHax community contributors
