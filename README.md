@@ -12,6 +12,8 @@ The repository contains source game data (`src/`), build tooling (`tools/build.p
 - Custom Characters (removed from the main repo due to copyright concerns)
 - Experimental features
 
+Please note that any models created by JimmyEatWaffles and Migudayoo are not featured here.
+
 ## Quick start
 
 ### Linux / macOS

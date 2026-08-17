@@ -2273,6 +2273,17 @@
             (backup_rival_outfit rasa05)
             (backup_dancers dci02)
             (screen_name dc_classic))))
+	(friend
+      (gender kGenderMale)
+      (playable FALSE)
+      (outfits
+         (friend01
+            (model
+               "char/main/dancer/friend01.milo")
+            (rival_outfit rasa05)
+            (backup_rival_outfit rasa05)
+            (backup_dancers riptide02)
+            (screen_name crew_look))))
    (heavy
       (gender kGenderMale)
       (playable FALSE)
@@ -2466,6 +2477,7 @@
  	teto01
  	walter01
 	bird01
+	friend01
  	dc1_angel01
  	dc1_angel02
  	dc1_aubrey01
@@ -2921,6 +2933,12 @@
    (femsinger04 femsinger01)
    (femsinger05 femsinger01)
    (femsinger06 femsinger01)
+   (friend01 friend01)
+   (friend02 friend01)
+   (friend03 friend01)
+   (friend04 friend01)
+   (friend05 friend01)
+   (friend06 friend01)
    (george01 george01)
    (george02 george02)
    (george03 george02)
@@ -3116,7 +3134,7 @@
       )
    )
    (crew16
-      (characters grim femsinger helicopter)
+      (characters grim femsinger friend helicopter)
       (venue dclive)
       (colors
          (0.99 0.0 0.56)

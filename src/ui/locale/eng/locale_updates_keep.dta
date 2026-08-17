@@ -325,6 +325,8 @@
 (doll_tile "Doll")
 (cyn "Cyn")
 (cyn_title "Silly")
+(friend "Dummy Girl")
+(friend_title "Dummy Girl")
 
 ;DC3 Venue Names
 (glitterati "Penthaüs (Cutscene)")
