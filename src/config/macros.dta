@@ -2307,7 +2307,7 @@
    (doll
       (gender kGenderFemale)
       (playable FALSE)
-	  (viseme "char/main/dancer/doll01/viseme.milo")
+	  (viseme "char/main/backup/emilia01_bd01/viseme.milo")
       (outfits
          (doll01
             (model
