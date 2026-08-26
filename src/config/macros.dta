@@ -2220,6 +2220,7 @@
    )
    (helicopter
       (gender kGenderMale)
+	  (viseme "char/main/dancer/hidef01_bd02/viseme.milo")
       (playable FALSE)
       (outfits
          (helicopter01
@@ -2274,7 +2275,8 @@
             (backup_dancers dci02)
             (screen_name dc_classic))))
 	(friend
-      (gender kGenderMale)
+      (gender kGenderFemale)
+	  (viseme "char/main/backup/emilia01_bd01/viseme.milo")
       (playable FALSE)
       (outfits
          (friend01
@@ -2305,7 +2307,7 @@
    (doll
       (gender kGenderFemale)
       (playable FALSE)
-	  (clips "char/main/dancer/doll01/clips.milo")
+	  (viseme "char/main/dancer/doll01/viseme.milo")
       (outfits
          (doll01
             (model
