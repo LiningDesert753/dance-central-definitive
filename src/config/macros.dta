@@ -2326,7 +2326,7 @@
    (cyn
       (gender kGenderFemale)
       (playable FALSE)
-	  (clips "char/main/dancer/cyn03/clips.milo")
+	  (viseme "char/main/dancer/robot01/viseme.milo")
       (outfits
          (cyn01
             (model
