@@ -2229,7 +2229,10 @@
             (rival_outfit rasa05)
             (backup_rival_outfit rasa05)
             (backup_dancers skeleton01)
-            (screen_name crew_look))))
+            (screen_name crew_look)
+		)
+	  )
+	)
    (grim
       (gender kGenderMale)
       (playable FALSE)
@@ -2316,9 +2319,9 @@
             (backup_rival_outfit angel02)
             (backup_dancers skeleton01)
             (screen_name crew_look))
-         (doll02
+         (doll03
             (model
-               "char/main/dancer/doll02.milo")
+               "char/main/dancer/doll03.milo")
             (rival_outfit angel01)
             (backup_rival_outfit angel02)
             (backup_dancers skeleton01)
@@ -2452,7 +2455,7 @@
 (beachfront beachfront_takehome yacht yacht_takehome minigolf minigolf_takehome subway subwaytakehome skyscraper skyscrapertakehome mountainbasesun mountainbasesuntakehome mountainbase mountainbase_takehome dci rollerrink streetside houseparty dclive throneroom bid glitterati arttest default powerstation highschool boardwalk boardwalktakehome bridge rooftop mansion forest)
 #define MILO_CHARACTERS
 	(doll01
-	doll02
+	doll03
  	cyn01
  	cyn03
  	ddronen01
