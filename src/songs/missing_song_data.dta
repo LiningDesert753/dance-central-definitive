@@ -4019,8 +4019,6 @@
    (author "Harmonix")
    #endif)
 (oh
-   (name "Oh!")
-   (artist "Girls' Generation")
    (song
       (vols
          (-6.6 -6.6)))
@@ -7096,7 +7094,7 @@
 )
 (97fc_turninmeon
    (name "Turnin Me On (Alternate)")
-   (artist "Keri Hilson Lil' Wayne")
+   (artist "Keri Hilson ft. Lil' Wayne")
    (game_origin ham1_viper)
 )
 (c13f_werunthis
@@ -10472,22 +10470,11 @@
 
 ;customs
 
-(cakebytheoceanmk
-   (name "Cake By The Ocean")
-   (artist "DNCE")
-   (game_origin ham3_cus)
-   (album_name "DNCE")
-   #ifdef CUSTOM_AUTHOR
-   (author "Makorulaz FDC")
-#endif
-)
-
 ;the following update is one of MY customs. the default venue is meant to be Lowdown.
 (runaway2
 	(name "Runaway")
 	(artist "Jamiroquai")
 	(album_name "High Times: Singles 1992-2006")
-	(game_origin ham3_cus)
 	(default_venue subway)
 	(default_character maccoy04)
 	(default_character_alt maccoy04)
@@ -10617,19 +10604,5 @@
    (backup_venue streetside)
    #ifdef CUSTOM_AUTHOR
    (author "Endri Lawson")
-#endif
-)
-(partyintheusa
-   (name "Party In The U.S.A.")
-   (artist "Miley Cyrus")
-   (game_origin ham3_cus)
-   (default_character aubrey03)
-   (default_character_alt aubrey02)
-   (backup_character aubrey03)
-   (backup_character_alt aubrey02)
-   (default_venue dclive)
-   (backup_venue dclive)
-   #ifdef CUSTOM_AUTHOR
-   (author "xLETmeLIVEx & Endri Lawson")
 #endif
 )
