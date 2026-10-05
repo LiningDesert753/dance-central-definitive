@@ -2256,7 +2256,8 @@
             (backup_dancers skeleton01)
             (screen_name crew_look))))
    (freddy
-      (gender kGenderMale)
+      (viseme "char/main/dancer/iconman01_bd02/viseme.milo")
+	  (gender kGenderMale)
       (playable FALSE)
       (outfits
          (freddy01
@@ -2264,7 +2265,7 @@
                "char/main/dancer/freddy01.milo")
             (rival_outfit rasa05)
             (backup_rival_outfit rasa05)
-            (backup_dancers oblio01)
+            (backup_dancers skeleton01)
             (screen_name crew_look))))
    (walter
       (gender kGenderMale)
@@ -2287,7 +2288,7 @@
                "char/main/dancer/friend01.milo")
             (rival_outfit rasa05)
             (backup_rival_outfit rasa05)
-            (backup_dancers riptide02)
+            (backup_dancers skeleton01)
             (screen_name crew_look))))
    (heavy
       (gender kGenderMale)
@@ -2938,6 +2939,14 @@
    (femsinger04 femsinger01)
    (femsinger05 femsinger01)
    (femsinger06 femsinger01)
+   
+   (freddy01 freddy01)
+   (freddy02 freddy01)
+   (freddy03 freddy01)
+   (freddy04 freddy01)
+   (freddy05 freddy01)
+   (freddy06 freddy01)
+   
    (friend01 friend01)
    (friend02 friend01)
    (friend03 friend01)
@@ -3139,7 +3148,7 @@
       )
    )
    (crew16
-      (characters grim femsinger friend helicopter)
+      (characters grim femsinger friend freddy helicopter)
       (venue dclive)
       (colors
          (0.99 0.0 0.56)
