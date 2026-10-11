@@ -2288,7 +2288,19 @@
                "char/main/dancer/friend01.milo")
             (rival_outfit rasa05)
             (backup_rival_outfit rasa05)
-            (backup_dancers skeleton01)
+            (backup_dancers mii)
+            (screen_name crew_look))))
+	(ryan
+      (gender kGenderFemale)
+	  (viseme "char/main/backup/emilia01_bd01/viseme.milo")
+      (playable FALSE)
+      (outfits
+         (ryan01
+            (model
+               "char/main/dancer/ryan01.milo")
+            (rival_outfit rasa05)
+            (backup_rival_outfit rasa05)
+            (backup_dancers mii)
             (screen_name crew_look))))
    (heavy
       (gender kGenderMale)
@@ -2411,6 +2423,20 @@
             (backup_rival_outfit mo04)
             (backup_dancers skeleton01)
             (screen_name dci_agent))))
+	(mii_bd01
+      (viseme "char/main/backup/glitterati01_bd01/viseme.milo")
+      (playable FALSE)
+      (outfits
+         (mii_bd01 (model "char/main/backup/mii_bd01.milo"))
+      )
+   )
+   (mii_bd02
+      (viseme "char/main/backup/glitterati01_bd02/viseme.milo")
+      (playable FALSE)
+      (outfits
+         (mii_bd02 (model "char/main/backup/mii_bd01.milo"))
+      )
+   )
    (kyoko
       (viseme
          "char/main/dancer/hidef01_bd01/viseme.milo")
@@ -2484,6 +2510,7 @@
  	walter01
 	bird01
 	friend01
+	ryan01
  	dc1_angel01
  	dc1_angel02
  	dc1_aubrey01
@@ -2995,6 +3022,12 @@
    (ringo04 ringo02)
    (ringo05 ringo02)
    (ringo06 ringo02)
+   (ryan01 ryan01)
+   (ryan02 ryan01)
+   (ryan03 ryan01)
+   (ryan04 ryan01)
+   (ryan05 ryan01)
+   (ryan06 ryan01)
    (sniper01 sniper01)
    (sniper02 sniper02)
    (sniper03 sniper02)
@@ -3148,7 +3181,15 @@
       )
    )
    (crew16
-      (characters grim femsinger friend freddy helicopter)
+      (characters grim femsinger freddy helicopter)
+      (venue dclive)
+      (colors
+         (0.99 0.0 0.56)
+         (0.36 0.93 1.0)
+      )
+   )
+   (crew17
+      (characters ryan friend)
       (venue dclive)
       (colors
          (0.99 0.0 0.56)
@@ -3157,7 +3198,7 @@
    )
    )
 #define SELECTABLE_CREWS
-(bd_dancers crew01 crew03 crew04 crew02 crew05 crew11 crew07 crew06 crew08 crew09 crew10 crew12 crew13 crew14 crew15 crew16)
+(bd_dancers crew01 crew03 crew04 crew02 crew05 crew11 crew07 crew06 crew08 crew09 crew10 crew12 crew13 crew14 crew15 crew16 crew17)
 #define CHARCLIP_SKELETONS
 (male female ricardo chanel devin frenchy marcos male_turbo female_turbo spikey nick kunle torey)
 #define kAccomplishmentTypeUnique
