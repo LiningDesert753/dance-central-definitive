@@ -2323,7 +2323,7 @@
    (doll
       (gender kGenderFemale)
       (playable FALSE)
-	  (viseme "char/main/backup/emilia01_bd01/viseme.milo")
+	  (viseme "char/main/dancer/kerith01/viseme.milo")
       (outfits
          (doll01
             (model
@@ -2929,6 +2929,8 @@
    (dcoy01_bd02 dcoy01_bd02)
    (dcoy02_bd01 dcoy02_bd01)
    (dcoy02_bd02 dcoy02_bd02)
+   (mii_bd01 mii_bd01)
+   (mii_bd02 mii_bd02)
    
    (helicopter01 helicopter01)
    (helicopter02 helicopter01)
